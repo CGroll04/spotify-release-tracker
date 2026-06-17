@@ -1,0 +1,8 @@
+.env
+.spotify_token_cache
+.cache
+seen_releases.json
+tracked_artists.json
+__pycache__/
+*.pyc
+.DS_Store

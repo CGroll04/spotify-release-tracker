@@ -139,4 +139,4 @@ tracked_artists.json
 
 ## Why This Project Matters
 
-This project combines music, automation, APIs, and real-world problem solving. It started as a personal tool to avoid missing new music, but it became a practical exercise in authentication, API design, state management, notifications, and scalable automation workflows.
+This project combines music, automation, APIs, and real-world problem solving. It started as a personal tool to avoid missing new music and became a practical exercise in OAuth, API pagination, rate-limit handling, persistent local state, and notifications.

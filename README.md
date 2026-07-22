@@ -66,7 +66,7 @@ spotify-release-tracker/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/spotify-release-tracker.git
+git clone https://github.com/CGroll04/spotify-release-tracker.git
 cd spotify-release-tracker
 ```
 
